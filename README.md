@@ -1,6 +1,6 @@
 # ebac_qualidade_exercicios
 Exercicios da Ebac do curso de Qualidade de Software - Analise de qualidade 
-Climatizador de ar, modelo bcl01f Britânia 
+Climatizador de ar, modelo bcl01f Britânia - 
 A escolha deste produto foi motivada pelo crescimento significativo da demanda, impulsionado pela elevação das temperaturas nos últimos anos. 
 De acordo com dados do Instituto Nacional de Meteorologia (INMET), responsável pelo monitoramento das condições climáticas no Brasil, o ano de 2024 registrou uma temperatura média de 25,02°C — um aumento de 0,79°C em relação à média histórica desde 1991. 
 Esse cenário tem intensificado a busca por soluções que proporcionem alívio térmico à população. 
